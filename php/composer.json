@@ -2,7 +2,7 @@
     "name": "appplatform-demo/php",
     "description": "PHP Slim demo app",
     "require": {
-        "php": ">=8.0",
+        "php": ">=8.5",
         "slim/slim": "^4",
         "slim/psr7": "^1.6"
     },
