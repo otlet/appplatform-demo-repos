@@ -1,0 +1,12 @@
+# Node
+node/node_modules/
+
+# Python
+python/.venv/
+__pycache__/
+
+# PHP
+php/vendor/
+
+# Go (compiled binary)
+go/go
