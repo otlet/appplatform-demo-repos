@@ -9,7 +9,7 @@ app = FastAPI(title="python-fastapi demo")
 
 
 def port() -> str:
-    return os.environ.get("PORT", "8000")
+    return os.environ.get("PORT", "8080")
 
 
 @app.get("/")
